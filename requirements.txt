@@ -1,4 +1,5 @@
-transformers==4.25.1
-torch==1.13.1
-openai==1.8.0
-Flask==3.0.1
+gradio==4.44.1
+openai-whisper==20240930
+setuptools==74.1.2
+torchaudio==2.5.1
+transformers==4.46.2
